@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6540
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Rhys
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22546#The-Reign-of-Mary-Tudor
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2007-09-09'
 gutenberg_type: Text
