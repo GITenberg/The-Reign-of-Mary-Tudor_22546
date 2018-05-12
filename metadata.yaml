@@ -1,0 +1,37 @@
+_repo: The-Reign-of-Mary-Tudor_22546
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Froude, James Anthony
+    alias: Froude, J. A. (James Anthony)
+    birthdate: 1818
+    deathdate: 1894
+    gutenberg_agent_id: '1381'
+    url: http://www.gutenberg.org/2009/agents/1381
+    wikipedia: http://en.wikipedia.org/wiki/James_Anthony_Froude
+  editor:
+    agent_name: Rhys, Ernest
+    birthdate: 1859
+    deathdate: 1946
+    gutenberg_agent_id: '6540'
+    url: http://www.gutenberg.org/2009/agents/6540
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Rhys
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2007-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22546'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Mary I, 1553-1558'
+- !lcsh 'Mary I, Queen of England, 1516-1558'
+title: The Reign of Mary Tudor
+url: http://www.gutenberg.org/ebooks/22546
